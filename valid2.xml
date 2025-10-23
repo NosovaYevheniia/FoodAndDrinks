@@ -1,0 +1,37 @@
+<drink_and_food> 
+    <item> 
+        <name land="en" length="15">Pizza four cheese</name>
+        <category type="food" diet="fat">Food</category>
+        <calories unit="kcal" measured="approx">930</calories>
+        <country continent="Europe" country="Italy">Italy</country>
+    </item>
+    <item> 
+        <name land="en" length="8">Ice cream</name>
+        <category type="food" diet="fat">Food</category>
+        <calories unit="kcal" measured="approx">350</calories>
+        <country continent="Europe" country="Spain">Spain</country>
+    </item>
+    <item>
+        <name land="en" length="5">Sushi</name>
+        <category type="food" diet="fat">Food</category>
+        <calories unit="kcal" measured="approx">1200</calories> 
+        <country continent="Europe" country="Japan">Japan</country>
+    </item>
+    <item>
+        <name land="en" length="10">Apple juice</name>
+    <category type="drink" diet="notfat">Drink</category>
+    <calories unit="kcal" measured="approx">150</calories>
+    <country continent="Europe" country="Spain">Spain</country> </item>
+    <item>
+        <name land="en" length="8"> Espresso</name>
+        <category type="drink" diet="notfat">Drink</category>
+        <calories unit="kcal" measured="approx">80</calories>
+        <country continent="Europe" country="Italy">Italy</country>
+    </item>
+    <item>
+        <name land="en" length="10"> Chezar salad</name>
+        <category type="food" diet="fat">Food</category>
+        <calories unit="kcal" measured="approx">460</calories>
+        <country continent="America" country="USA">USA</country>
+    </item>
+</drink_and_food>

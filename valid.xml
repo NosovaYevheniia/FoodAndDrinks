@@ -1,0 +1,37 @@
+<drink_and_food> 
+    <item> 
+        <name>Pizza four cheese</name>
+        <category>Food</category>
+        <calories>930</calories>
+        <country>Italy</country>
+    </item>
+    <item> 
+        <name>Ice cream</name>
+        <category>Food</category>
+        <calories>350</calories>
+        <country>Spain</country>
+    </item>
+    <item>
+        <name>Sushi</name>
+        <category>Food</category>
+        <calories>1200</calories> 
+        <country>Japan</country>
+    </item>
+    <item>
+        <name>Apple juice</name>
+    <category>Drink</category>
+    <calories>150</calories>
+    <country>Spain</country> </item>
+    <item>
+        <name> Espresso</name>
+        <category>Drink</category>
+        <calories>80</calories>
+        <country>Italy</country>
+    </item>
+    <item>
+        <name> Chezar salad</name>
+        <category>Food</category>
+        <calories>460</calories>
+        <country>USA</country>
+    </item>
+</drink_and_food>
