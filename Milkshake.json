@@ -1,0 +1,10 @@
+{
+    "name": "Vanilla Milkshake", 
+    "EnergyValue": 111,
+    "Fats": true,
+    "Protein": "3,9",
+    "Ingredients": ["milk", "shugar", "icecream"],
+    "Origin": "USA",
+    "Sodium": 95,
+    "Carbohydrates": 18
+}

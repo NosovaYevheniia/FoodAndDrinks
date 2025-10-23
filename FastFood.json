@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Cheeseburger",
+        "compounds": ["onion", "bred", "cheese"],
+        "origin": "USA",
+        "type": "fastfood", 
+        "description": "Ground beef patties topped with melted cheese in a bun"
+    },
+    {
+        "name": "fries",
+        "compounds": ["potatoes", "salt"],
+        "origin": "unknown",
+        "type": "fastfood", 
+        "description": "Thinly sliced potato pieces that are deep-fried or air-fried"
+    },
+    {
+        "name": "HotDog",
+        "compounds": ["sausage", "bred", "ketchup"],
+        "origin": "USA",
+        "type": "fastfood", 
+        "description": "Prepared using the intestines of animals like goats, sheep, etc., filled with specific material and is served in a long bun"
+    },
+    {
+        "name": "FriedChicken",
+        "compounds": ["chicken", "ketchup"],
+        "origin": "USA",
+        "type": "fastfood", 
+        "description": "A crispy deep-fried dish of chicken is usually dipped in seasoned flour before frying"  
+    },
+    {
+        "name": "Pizza",
+        "compounds": ["dought", "ketchup", "cheese"],
+        "origin": "Italy",
+        "type": "fastfood", 
+        "description": "A thin, flat round bread that is baked with vegetables and cheese on the top"   
+    },
+    {
+        "name": "Milkshake",
+        "compounds": ["milk", "icecream"],
+        "origin": "USA",
+        "type": "drinks", 
+        "description": "A sweet, cold, and thick beverage traditionally made by blending milk, ice cream"  
+    }
+]
